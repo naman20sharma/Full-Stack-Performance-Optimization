@@ -1,5 +1,5 @@
 ## Overview
-This document outlines the fixes and improvements made to address the intentional issues in the take-home assessment.
+This document outlines the fixes and improvements made to address the issues in most web applications codebases.
 
 ## Backend Improvements
 
